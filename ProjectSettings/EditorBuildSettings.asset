@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GameStart.unity
+    guid: 9331f49e9345e7346905943d3952b377
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: bb9521f9b398a214ba216aaef6a64db8
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: 93a6d96e4c6cc454b8b137028e600f49
+  - enabled: 1
+    path: Assets/Scenes/Corridor_Central.unity
+    guid: 9ef9c31c7305da244849905d9a718003
+  - enabled: 1
+    path: Assets/Scenes/Up_Corridor.unity
+    guid: 078674d8801db67489c9d79012eba533
+  - enabled: 1
+    path: Assets/Scenes/Down_Corridor.unity
+    guid: daac6c785dfbcc54db369e03d51fae8e
+  - enabled: 1
+    path: Assets/Scenes/Reattore.unity
+    guid: 54eda02e8373f34429e1fec9a1811c33
+  - enabled: 1
+    path: Assets/Scenes/Serra.unity
+    guid: faa9a15231c34f64bbb5e88638e16822
+  - enabled: 1
+    path: Assets/Scenes/Sgabuzzino.unity
+    guid: f386cf47187aeeb4f93f849cf8f5d664
+  - enabled: 1
+    path: Assets/Scenes/Stoccaggio.unity
+    guid: 67b494ee122c80a41a675e1f2ee89c6f
+  - enabled: 1
+    path: Assets/Scenes/Navigation.unity
+    guid: 0f64458571653294d993d6f29d19144d
+  m_configObjects: {}

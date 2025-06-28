@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - don't go
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Menu
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackBackGround
+    uniqueID: 2423208599
+    locked: 0
+  - name: BackGround
+    uniqueID: 2181567481
+    locked: 0
+  - name: New Layer 9
+    uniqueID: 2615592361
+    locked: 0
+  - name: Details
+    uniqueID: 3961566927
+    locked: 0
+  - name: Portachiusa
+    uniqueID: 1581321633
+    locked: 0
+  - name: Scala
+    uniqueID: 3482985615
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 3423906913
+    locked: 0
+  - name: New Layer 8
+    uniqueID: 2463498741
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 1229980251
+    locked: 0
